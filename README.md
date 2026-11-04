@@ -39,6 +39,9 @@ pip install -r requirements.txt
 4. Run the application
 streamlit run app.py
 
+Demo
+https://ai-career-advisor-using-machine-learning-fmnjsnaixax3zx6tzjqqt.streamlit.app/
+
 🎯 Project Objective
 
 To help users make better career decisions by providing personalized career recommendations based on their skills, interests, and strengths using Machine Learning and NLP.
