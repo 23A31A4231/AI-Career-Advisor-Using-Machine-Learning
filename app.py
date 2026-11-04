@@ -15,7 +15,6 @@ df = pd.DataFrame(data)
 
 st.title(" 🎯 AI Career Advisor")
 st.write("Enter your skills & interests to get career recommendations!")
-st.text_area("Your Skills (comma separated)", "Python, Statistics, HTML")
 user_input = st.text_area(
     "Your Skills (comma separated)",
     "Python, Statistics, HTML",
